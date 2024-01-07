@@ -1,4 +1,4 @@
-adicao = 10 + 10
+concatenacao = adicao = 10 + 10
 print('Adição',adicao)
 
 subtracao = 10 - 5 
@@ -26,4 +26,3 @@ print(10 % 2 == 0)
 print(15 % 2 == 0)
 print(16  % 2 == 0)
 
-print('Òla, Henrique')
